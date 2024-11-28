@@ -1,0 +1,74 @@
+header .up {
+  height: 150px;
+  width: auto;
+  background-color: #cc0000;
+}
+#logo {
+  width: 175px;
+  height: 175px;
+}
+.down {
+  margin-top: -10px;
+  height: 40px;
+  background-color: #3f48cc;
+  display: flex;
+  justify-content: space-between;
+}
+.down button {
+  color: rgb(255, 255, 255);
+  height: 30px;
+  background-color: black;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.body {
+  height: inherit;
+  width: auto;
+}
+.login {
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+  background-color: #440000;
+}
+.form {
+  height: 200px;
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10%;
+  margin-bottom: 20%;
+  background-color: #3f48cc;
+  background-image: none;
+  border-radius: 20px;
+}
+.form input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#email {
+  margin-top: 20px;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+}
+#pasw {
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  text-size-adjust: 20%;
+}
+#login {
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+}
+.wellkome {
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+}
